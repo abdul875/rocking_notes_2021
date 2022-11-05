@@ -1,1 +1,7 @@
-python 
+Requirements Need
+
+Python version - Python 3.10.1
+For install Django - pip install django
+and Django version is 4.0.3
+For framework - pip install djangorestframework
+For SQlite - pip install pysqlite3 
